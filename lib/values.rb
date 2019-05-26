@@ -12,3 +12,5 @@ def get_the_values(groceries)
   #=> {
 [:dairy, :vegetable, :meat, :grains]
 
+groceries
+
