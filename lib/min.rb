@@ -9,5 +9,7 @@ require 'pry'
 # }
 
 def get_the_min(groceries)
+  #=>["milk","yogurt", "cheese" ,carrots", "broccoli","cucumbers", "chiken", "steak", "sa.lmon", "rice", "pasta" ]
+
   #code your solution here!
 end
