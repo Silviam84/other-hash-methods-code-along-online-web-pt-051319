@@ -8,11 +8,11 @@ require 'pry'
 # }
 
 def get_the_values(groceries)
-  groceries.Keys
+  groceries.Keys"
   #=> {
 [:dairy, :vegetable, :meat, :grains]
 
 groceries.values.flatten 
-#=>["milk","yogurt", "cheese"carrots", "broccoli]"
+#=>["milk","yogurt", "cheese" ,carrots", "broccoli","cucumbers", "chiken", "steak",  ]
 
 
