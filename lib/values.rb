@@ -10,4 +10,5 @@ require 'pry'
 def get_the_values(groceries)
   groceries.Keys
   #=> {
-en[:dairy, :vegetable, :meat, :grains]
+[:dairy, :vegetable, :meat, :grains]
+
